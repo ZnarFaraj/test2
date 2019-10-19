@@ -1,0 +1,4 @@
+body{background: lightblue;border-width: 10px;padding: 20px;margin-left: 5px;border-bottom: 25px;float: left;}
+li{font: 70px;}
+img{position: relative;left:650px;right: 350px;border-bottom-style: dotted;border-radius: 100px}
+h1{color: red;padding-top: 180px;padding-right: 20px;padding-bottom: 50px;border-top-left-radius: 25px;border-bottom-right-radius: 56px}
